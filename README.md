@@ -1,7 +1,7 @@
 # Data Scientist
 
-#### Technical Skills: Python (pandas, Scikit-learn), SQL, Machine Learning algorithms, Statistical inference, GIT, Generative AI models,
-#### Data Visualisation, Data Analysis and Exploration, MLOps (Azure), NLP, Deep Learning (TensorFlow, PyTorch), Data Modelling/ Model training
+#### Technical Skills: Python (pandas, Scikit-learn), SQL, Machine Learning algorithms, Statistical inference, GIT, Generative AI models, 
+Data Visualisation, Data Analysis and Exploration, MLOps (Azure), NLP, Deep Learning (TensorFlow, PyTorch), Data Modelling/ Model training
 
 ## Education
 - Bachelor's Degree in Computer Science Engineering | M.R.S. Punjab Technical University (_June 2021_)								       		
@@ -9,14 +9,14 @@
 
 ## Work Experience
 **Research Associate-Data Scientist @ Black Basil Technologies (_April 2023 - Present_)**
-- **Text to Speech**
+ **Text to Speech**
 - Developed end-to-end generative TTS system using GAN-AI architectures(Glow-TTS and Hifi-GAN) designed in Python, PyTorch, and TensorFlow built
   data ingestion and preprocessing pipelines, trained models, Fine-tune on AWS,and Optimized novel generative networks using the latest techniques 
   like denoising diffusion.
 - Improved speech naturalness by 7% and model stability by constructing Python's modular linguistics analysis and normalization modules.
 - Optimized novel text-to-speech networks in Python, Reduced speech distortions, and enhanced model stability and audio fidelity leading to 7%
   improvement in mean opinion score (MOS).
-- **Conversational AI - KAIWA**
+ **Conversational AI - KAIWA**
 - Developed a conversational AI leveraging natural language processing, machine learning models (e.g. BERT, GPT), and dialog management techniques to 
   engage in contextual, human-like conversations.
 - Implemented retrieval augmented generation (RAG) techniques to enhance output quality and extract information from external knowledge bases.
@@ -25,7 +25,7 @@
 - Utilized state-of-the-art large language models such as Llama 2.
 - Currently integrating voice AI into the Kaiwa chatbot, leveraging front-end speech inputs and speech recognition capabilities through backend 
   Python scripts for speech-to-text conversion.
-- **Speech Emotion Detection**
+ **Speech Emotion Detection**
 - The speech emotion recognition model uses Python, and Transformer achieves 84% accuracy by optimizing audio feature extraction and hyperparameters.
 - Robust data pipeline for 2500+ samples, librosa feature extraction, UI annotation.
 - Published research. Leveraged Python, TensorFlow/Keras, and toolkits for cutting-edge Speech Processing, NLP.
