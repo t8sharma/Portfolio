@@ -13,17 +13,14 @@
   data ingestion and preprocessing pipelines, trained models, Fine-tune on AWS, and Optimized novel generative networks using the latest techniques 
   like denoising diffusion.
 - Improved speech naturalness by 7% and model stability by constructing Python's modular linguistics analysis and normalization modules.
-- Optimized novel text-to-speech networks in Python, Reduced speech distortions, and enhanced model stability and audio fidelity leading to 7%
-  improvement in mean opinion score (MOS).
+- Optimized novel text-to-speech networks in Python, Reduced speech distortions, and enhanced model stability and audio fidelity leading to 7% improvement in mean opinion score (MOS).
 >**Conversational AI - KAIWA**
 - Developed a conversational AI leveraging natural language processing, machine learning models (e.g. BERT, GPT), and dialog management techniques to 
   engage in contextual, human-like conversations.
 - Implemented retrieval augmented generation (RAG) techniques to enhance output quality and extract information from external knowledge bases.
-- Conducted thorough experimentation with various model sizes including 3B, 7B, 13B, 70B, etc., to identify optimal metrics and ensure accurate 
-  outputs.
+- Conducted thorough experimentation with various model sizes including 3B, 7B, 13B, 70B, etc., to identify optimal metrics and ensure accurate outputs.
 - Utilized state-of-the-art large language models such as Llama 2.
-- Currently integrating voice AI into the Kaiwa chatbot, leveraging front-end speech inputs and speech recognition capabilities through backend 
-  Python scripts for speech-to-text conversion.
+- Currently integrating voice AI into the Kaiwa chatbot, leveraging front-end speech inputs and speech recognition capabilities through backend Python scripts for speech-to-text conversion.
 >**Speech Emotion Detection**
 - The speech emotion recognition model uses Python, and Transformer achieves 84% accuracy by optimizing audio feature extraction and hyperparameters.
 - Robust data pipeline for 2500+ samples, librosa feature extraction, UI annotation.
