@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python (pandas, Scikit-learn), SQL, Machine Learning, Git Hub, Generative AI, Data Visualisation, Data Analysis, MLOps(Azure), NLP, Deep Learning (TensorFlow, PyTorch)
+#### Technical Skills: Python, SQL, Machine Learning, Git Hub, Generative AI, Data Visualisation, Data Analysis, MLOps(Azure), NLP, Deep Learning (TensorFlow, PyTorch), Power BI
 
 ## Education
 - Bachelor's Degree in Computer Science Engineering | M.R.S. Punjab Technical University (_June 2021_)								       		
